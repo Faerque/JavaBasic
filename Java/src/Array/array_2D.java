@@ -1,3 +1,5 @@
+package Array;
+
 public class array_2D {
 
     public static void main(String[] args) {

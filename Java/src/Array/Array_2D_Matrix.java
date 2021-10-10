@@ -1,3 +1,5 @@
+package Array;
+
 import java.util.Scanner;
 
 public class Array_2D_Matrix {
