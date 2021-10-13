@@ -3,7 +3,25 @@ package OOP;
 public class Student {
 
     String name,gender;
-    short phone;
+    int phone;
+
+    // Default Constructor
+    Student(){
+        System.out.println("This is Default Constructor! ");
+    }
+
+    // Parametrized Constructor
+    Student(String n, String g, int ph){
+        name = n;
+        gender =g;
+        phone = ph;
+    }
+
+//    void setInformation(String n, String g, int ph){
+//        name = n;
+//        gender = g;
+//        phone = ph;
+//    }
 
     void displayInfo(){
 
