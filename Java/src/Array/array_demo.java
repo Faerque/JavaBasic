@@ -1,3 +1,5 @@
+package Array;
+
 class array_demo {
 
     public static void main(String[] args) {
